@@ -1,9 +1,8 @@
 # AWSLambda-CSharp-Samples
 community code samples authored by SoCal Developers at 'cook and code'
 
-AWS Lambda Serverless - C#
-
-
+Challenge: Build a community website (for SoCal Code Camp) using AWS C# Lambdas and other services for a serverless pattern
+***
 
 **Goals: **
 
@@ -19,16 +18,16 @@ AWS Lambda Serverless - C#
     * .NET Core - https://www.microsoft.com/net/core#macos
     * AWS SDK and cli w/profiles
 * AWS
-    * Using AWS account - in AWS region <your region>
+    * Using AWS account - in AWS region [your region]
     * IAM users
-        * Username:<your username>
-        * Public Key: <your public key>
-        * Private Key: <your private key>
-        * Group membership: <Administrators> NOTE: reduce permission for production
+        * Username:[your username]
+        * Public Key: [your public key]
+        * Private Key: [your private key
+        * Group membership: [Administrators] NOTE: reduce permission for production
     * S3 buckets
-        * s3:\\<your-bucket>\
-        * s3:\\<your-bucket-2>\
-    * GitHub Repo - 
+        * s3:\\[your-bucket]\
+        * s3:\\[your-bucket-2]\
+    * GitHub Repo - this one
 
 * * *
 **Sprints**
